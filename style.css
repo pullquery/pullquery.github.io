@@ -20,6 +20,10 @@ img {
     border-radius: 30%;
 }
 
+img:hover {
+    transform: scale(1.1, 1.1);
+}
+
 h1 {
     color: white;
     text-align: center;
@@ -34,6 +38,6 @@ h1 {
     }
 
     h1 {
-        width: 100%;
+        width: 90%;
     }
 }
