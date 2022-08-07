@@ -25,3 +25,13 @@ h1 {
     font-family: monospace;
     font-size: 40px;
 }
+
+@media (max-width: 400px) {
+    img {
+        width: 75%;
+    }
+
+    h1 {
+        width: 100%;
+    }
+}
