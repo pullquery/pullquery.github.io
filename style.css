@@ -22,6 +22,7 @@ img {
 
 h1 {
     color: white;
+    text-align: center;
     font-family: monospace;
     font-size: 40px;
 }
@@ -29,6 +30,7 @@ h1 {
 @media (max-width: 400px) {
     img {
         width: 75%;
+        height: auto;
     }
 
     h1 {
